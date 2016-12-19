@@ -28,5 +28,11 @@ UNSOLVED PROBLEMS
 Seeing what option was selected for each question in the radio buttons. I achieved this by wrapping
 one question as a form but was unable to do so when all questions were wrapped as forms. 
 
+HONORABLE MENTIONS
+
+Would like to thank my Squad lead, Joe Keohan for his guidance through the game making process and always being available to answer my questions.
+
+Also like to mention Alison Stuart, Jon Zachary, and Calvin Bowen Jr for giving insightful inputs.
+
 
 
