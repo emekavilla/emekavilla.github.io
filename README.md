@@ -7,6 +7,10 @@ entire map.
 Map structure is courtesy of Raphael JS Library which provided map coordinates.
 HTML, CSS, and Javascript were used to develop the game.
 
+Screenshot of Game:
+<img src="Screenshot 2016-12-18 21.10.48">
+
+
 Problems encountered during build:
 
 The game provided an error message which meant it was only viewable in firefox browser:
