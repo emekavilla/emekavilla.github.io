@@ -90,7 +90,7 @@ var paths = [
   },
 
 	{
-		enable: true,
+		enable: false,
 		name: 'Antananarivo',
 		abbreviation: 'MG',
 		textX: 865,

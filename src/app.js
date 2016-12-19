@@ -29,12 +29,15 @@
 // ********************
 
 
-    document.getElementById('button').addEventListener('click', print);
-
-    function print () {
-    alert('try again');
-    }
-
+    document.getElementById('button').addEventListener('click', function(){;
+        $('input').each(function(i,d){
+          if(d.checked) { console.log(d)}
+        })
+        console.log($('input'))
+    // function print () {
+    // alert('try again');
+    // }
+})
 
 
 

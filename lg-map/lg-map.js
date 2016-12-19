@@ -312,11 +312,11 @@ $(function() {
     }
 
 
-    document.getElementById('button').addEventListener('click', print);
+    // document.getElementById('button').addEventListener('click', print);
 
-    function print () {
-    alert('try again');
-    }
+    // function print () {
+    // alert('try again');
+    // }
 
     /////////////////////////////
     //Resize map functions
