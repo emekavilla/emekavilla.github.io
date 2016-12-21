@@ -67,7 +67,7 @@
   height: 100px;
   width: 100px;
   float:right;
-  display: inline-block;
+  display: flex;
 }
 
 

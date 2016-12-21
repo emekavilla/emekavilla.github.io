@@ -90,7 +90,7 @@ var paths = [
   },
 
 	{
-		enable: false,
+		enable: true,
 		name: 'Antananarivo',
 		abbreviation: 'MG',
 		textX: 865,
@@ -781,8 +781,8 @@ var paths = [
 		text: '<h1>Seychelles</h1><br /><p>What is the Capital of Seychelles?</p><p><input type="radio" name="capital" value="Tripoli"/> Tripoli</p><p><input type="radio" name="capital" value="Portabella"/> Portabella</p> <p><input type="radio" name="capital" value="Port Louis"/> St Louis</p><input type="radio" name="capital" value="Victoria"/> Victoria</p><input type="submit" value="Submit"></p>',
 		path: 'm 960.69286,590.1171 c 0.49584,-0.77803 0.53889,-1.58157 0.12755,-2.41062 -0.95819,0.66643 -0.99965,1.64535 -0.12755,2.41062z M 940,560 965,560 965,580 940,580 Z'
 	}
-
 ]
+
 
 ////////////////////
 //Pins config

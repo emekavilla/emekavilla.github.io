@@ -29,15 +29,32 @@
 // ********************
 
 
-    document.getElementById('button').addEventListener('click', function(){;
-        $('input').each(function(i,d){
-          if(d.checked) { console.log(d)}
-        })
-        console.log($('input'))
+    document.getElementById('button').addEventListener('click', function(e){
+        $('input').each(function(index,element){
+          //console.log(index, element);
+          if(element.checked) {
+            // $('h1').text();
+            paths.forEach((el,i) => {
+              const paths_text = el.text.match($('h1').text());
+              //console.log(paths_text);
+              if (paths_text) {
+                console.log($(`input[name='capital']:checked`));
+                // if(el.name === $('input[name='capital']:checked')) {
+                //     alert('Guessed Right!');
+                // }
+              }
+            });
+            //console.log(element);
+            //console.log($('input option:checked'));
+            //if ($('input option:checked').value === )
+          }
+        });
+        // console.log($('input'))
+
     // function print () {
     // alert('try again');
     // }
-})
+});
 
 
 
