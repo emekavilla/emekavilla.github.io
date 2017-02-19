@@ -21,7 +21,7 @@ function compareCapitalName(countryName, guessedCapital) {
   })
 }
 
-    document.getElementsByTagName("P").innerHTML = ('Submit').addEventListener('click', function(e){
+    document.getElementById('button').addEventListener('click', function(e){
       let counrtyName = $('h1').text();
       // console.log(counrtyName);
 
